@@ -21,11 +21,12 @@ CREATE TABLE contestant (
 CREATE TABLE episode (
     id INT PRIMARY KEY,
     season_id INT,
-    number INT,
+    episode_nr INT,
     aired_date DATE,
     title VARCHAR(255),
     scheduled_length_days INT,
-    arrangement VARCHAR(255)
+    arrangement VARCHAR(255),
+    primitive_survival_rating FLOAT
 );
 
 CREATE TABLE season (
