@@ -5,17 +5,12 @@ CREATE TABLE location (
     episode_location_name VARCHAR(255)
 );
 
-CREATE TABLE episode_location (
-    id INT PRIMARY KEY,
-    episode_location_name VARCHAR(255)
-);
-
 CREATE TABLE contestant (
     id INT PRIMARY KEY,
     group_id INT,
     firstname VARCHAR(255),
     lastname VARCHAR(255),
-    episode_id INTEGER[];
+    episode_id INTEGER[]
 );
 
 CREATE TABLE episode (
@@ -26,7 +21,10 @@ CREATE TABLE episode (
     title VARCHAR(255),
     scheduled_length_days INT,
     arrangement VARCHAR(255),
-    primitive_survival_rating FLOAT
+    primitive_survival_rating FLOAT,
+    location_id INTEGER[],
+    modifier VARCHAR(255),
+    is_partner_replaced BOOLEAN DEFAULT FALSE
 );
 
 CREATE TABLE season (
