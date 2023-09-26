@@ -7,9 +7,9 @@ dotenv.config();
 
 // Set up the Weaviate client
 const client: WeaviateClient = weaviate.client({
-  scheme: 'https',
-  host: 'testing-r21ugq0e.weaviate.network',
-  apiKey: new ApiKey('WEAVIATE-API-KEY'),
+    scheme: 'https',
+    host: 'naked-and-afraid-k451sreg.weaviate.network',
+    apiKey: new ApiKey('WEAVIATE_APIKEY'), 
 });
 
 async function populateData(example: string) {
