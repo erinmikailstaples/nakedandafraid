@@ -1,0 +1,52 @@
+{
+    "classes": [
+      {
+        "class": "Episode",
+        "description": "A specific episode of a show.",
+        "properties": [
+          {
+            "name": "id",
+            "description": "Unique identifier for the episode.",
+            "dataType": ["int"]
+          },
+          {
+            "name": "season_id",
+            "description": "Identifier for the season to which the episode belongs.",
+            "dataType": ["int"]
+          },
+          {
+            "name": "episode_nr",
+            "description": "Episode number.",
+            "dataType": ["int"]
+          },
+          {
+            "name": "aired_date",
+            "description": "The date when the episode aired.",
+            "dataType": ["string", "date"]
+          },
+          {
+            "name": "title",
+            "description": "The title of the episode.",
+            "dataType": ["string"]
+          },
+          {
+            "name": "scheduled_length_days",
+            "description": "The number of days in which they should try to survive.",
+            "dataType": ["int"]
+          },
+          {
+            "name": "location",
+            "description": "Where they needed to survive.",
+            "dataType": ["string"]
+          },
+          {
+            "name": "participants",
+            "description": "List of participants in the episode.",
+            "dataType": ["string"]
+
+          }
+        ]
+      }
+    ]
+  }
+  

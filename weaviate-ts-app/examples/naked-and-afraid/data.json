@@ -1,0 +1,2442 @@
+[
+    {
+      "id": 1,
+      "season_id": 1,
+      "episode_nr": 1,
+      "aired_date": "2013-06-23",
+      "title": "The Jungle Curse",
+      "scheduled_length_days": 21,
+      "Location": "Costa Rica",
+      "Participants": "Kim Shelton,Shane"
+    },
+    {
+      "id": 2,
+      "season_id": 1,
+      "episode_nr": 2,
+      "aired_date": "2013-06-30",
+      "title": "Terror in Tanzania",
+      "scheduled_length_days": 21,
+      "Location": "Tanzania",
+      "Participants": "EJ,Kellie Nightlinger"
+    },
+    {
+      "id": 3,
+      "season_id": 1,
+      "episode_nr": 3,
+      "aired_date": "2013-07-07",
+      "title": "Island From Hell",
+      "scheduled_length_days": 21,
+      "Location": "Maldives",
+      "Participants": "Alison Teal,Jonathan Klay"
+    },
+    {
+      "id": 4,
+      "season_id": 1,
+      "episode_nr": 4,
+      "aired_date": "2013-07-14",
+      "title": "Punishment in Panama",
+      "scheduled_length_days": 21,
+      "Location": "Panama",
+      "Participants": "Clint Jivoin,Laura"
+    },
+    {
+      "id": 5,
+      "season_id": 1,
+      "episode_nr": 5,
+      "aired_date": "2013-07-21",
+      "title": "Breaking Borneo",
+      "scheduled_length_days": 21,
+      "Location": "Malaysia",
+      "Participants": "Julie Wright,Puma Cabra"
+    },
+    {
+      "id": 6,
+      "season_id": 1,
+      "episode_nr": 6,
+      "aired_date": "2013-07-28",
+      "title": "Beware the Bayou",
+      "scheduled_length_days": 21,
+      "Location": "Louisiana",
+      "Participants": "Billy Berger,Ky"
+    },
+    {
+      "id": 7,
+      "season_id": 2,
+      "episode_nr": 1,
+      "aired_date": "2013-12-11",
+      "title": "Double Jeopardy",
+      "scheduled_length_days": 21,
+      "Location": "Panama",
+      "Participants": "Cassie DePecol,Forrest Galante,Manu,Russell"
+    },
+    {
+      "id": 8,
+      "season_id": 2,
+      "episode_nr": 2,
+      "aired_date": "2014-03-14",
+      "title": "Man vs. Amazon",
+      "scheduled_length_days": 21,
+      "Location": "Peru",
+      "Participants": "AK,EJ,Laura,Tyler Steinle"
+    },
+    {
+      "id": 9,
+      "season_id": 2,
+      "episode_nr": 3,
+      "aired_date": "2014-03-21",
+      "title": "Damned in Africa",
+      "scheduled_length_days": 21,
+      "Location": "Madagascar",
+      "Participants": "Eva,Jeff"
+    },
+    {
+      "id": 10,
+      "season_id": 2,
+      "episode_nr": 4,
+      "aired_date": "2014-03-30",
+      "title": "Paradise Lost",
+      "scheduled_length_days": 21,
+      "Location": "Fiji",
+      "Participants": "Alana,Keith Busch"
+    },
+    {
+      "id": 11,
+      "season_id": 2,
+      "episode_nr": 5,
+      "aired_date": "2014-04-06",
+      "title": "Mayan Misery",
+      "scheduled_length_days": 21,
+      "Location": "Belize",
+      "Participants": "Cass Caddidy,Shannon Thomas"
+    },
+    {
+      "id": 12,
+      "season_id": 2,
+      "episode_nr": 6,
+      "aired_date": "2014-04-13",
+      "title": "The Pain Forest",
+      "scheduled_length_days": 21,
+      "Location": "Malaysia",
+      "Participants": "Fernando,Samantha Pearson"
+    },
+    {
+      "id": 13,
+      "season_id": 2,
+      "episode_nr": 7,
+      "aired_date": "2014-04-20",
+      "title": "Meltdown in Bolivia",
+      "scheduled_length_days": 21,
+      "Location": "Bolivia",
+      "Participants": "Sabrina Mergenthaler,Vincent Pinto"
+    },
+    {
+      "id": 14,
+      "season_id": 3,
+      "episode_nr": 2,
+      "aired_date": "2014-06-29",
+      "title": "Primal Fear",
+      "scheduled_length_days": 21,
+      "Location": "Namibia",
+      "Participants": "Lindsey Leitelt,Luke"
+    },
+    {
+      "id": 15,
+      "season_id": 3,
+      "episode_nr": 3,
+      "aired_date": "2014-07-06",
+      "title": "Blood in the Water",
+      "scheduled_length_days": 21,
+      "Location": "Bahamas",
+      "Participants": "Dani Julien,Justin Bullard"
+    },
+    {
+      "id": 16,
+      "season_id": 3,
+      "episode_nr": 4,
+      "aired_date": "2014-07-13",
+      "title": "Hearts of Darkness",
+      "scheduled_length_days": 21,
+      "Location": "Cambodia",
+      "Participants": "Carrie,Tom Touw"
+    },
+    {
+      "id": 17,
+      "season_id": 3,
+      "episode_nr": 5,
+      "aired_date": "2014-07-20",
+      "title": "Jungle Love",
+      "scheduled_length_days": 21,
+      "Location": "Nicaragua",
+      "Participants": "Adam Young,Jaclyn McCaffrey"
+    },
+    {
+      "id": 18,
+      "season_id": 3,
+      "episode_nr": 6,
+      "aired_date": "2014-07-27",
+      "title": "Argentina Impossible",
+      "scheduled_length_days": 21,
+      "Location": "Argentina",
+      "Participants": "Lisa Coray,Tom McElroy"
+    },
+    {
+      "id": 19,
+      "season_id": 3,
+      "episode_nr": 7,
+      "aired_date": "2014-08-03",
+      "title": "Playing With Fire",
+      "scheduled_length_days": 21,
+      "Location": "Dominica",
+      "Participants": "Chris,Connie Kohlen"
+    },
+    {
+      "id": 20,
+      "season_id": 3,
+      "episode_nr": 8,
+      "aired_date": "2014-08-17",
+      "title": "Himalayan Hell",
+      "scheduled_length_days": 21,
+      "Location": "India",
+      "Participants": "Hakim,Phaedra"
+    },
+    {
+      "id": 21,
+      "season_id": 3,
+      "episode_nr": 9,
+      "aired_date": "2014-09-28",
+      "title": "Nicaragua Nightmare",
+      "scheduled_length_days": 21,
+      "Location": "Nicaragua",
+      "Participants": "Amanda Leigh,Joshua"
+    },
+    {
+      "id": 22,
+      "season_id": 3,
+      "episode_nr": 10,
+      "aired_date": "2014-10-23",
+      "title": "Botswana Breakdown",
+      "scheduled_length_days": 21,
+      "Location": "Botswana",
+      "Participants": "Ashley Burns,Michael Jefferson"
+    },
+    {
+      "id": 23,
+      "season_id": 3,
+      "episode_nr": 11,
+      "aired_date": "2014-10-23",
+      "title": "Dunes of Despair",
+      "scheduled_length_days": 21,
+      "Location": "Brazil",
+      "Participants": "Honora,Matt Strutzel"
+    },
+    {
+      "id": 24,
+      "season_id": 4,
+      "episode_nr": 1,
+      "aired_date": "2015-04-19",
+      "title": "Alligator Alley",
+      "scheduled_length_days": 21,
+      "Location": "Florida",
+      "Participants": "Amber,Ryan Holt"
+    },
+    {
+      "id": 25,
+      "season_id": 4,
+      "episode_nr": 2,
+      "aired_date": "2015-04-26",
+      "title": "Rumble in the Jungle",
+      "scheduled_length_days": 21,
+      "Location": "Mexico",
+      "Participants": "Christina,Steve Hansen"
+    },
+    {
+      "id": 26,
+      "season_id": 4,
+      "episode_nr": 3,
+      "aired_date": "2015-05-03",
+      "title": "Mayan Sacrifice",
+      "scheduled_length_days": 21,
+      "Location": "Mexico",
+      "Participants": "Alyssa,Luke Pytlik"
+    },
+    {
+      "id": 27,
+      "season_id": 4,
+      "episode_nr": 4,
+      "aired_date": "2015-05-10",
+      "title": "Edge of Madness",
+      "scheduled_length_days": 21,
+      "Location": "Guyana",
+      "Participants": "Afften DeShazer,Zack Buck"
+    },
+    {
+      "id": 28,
+      "season_id": 4,
+      "episode_nr": 5,
+      "aired_date": "2015-05-17",
+      "title": "Fire on the Mountain",
+      "scheduled_length_days": 21,
+      "Location": "India",
+      "Participants": "Jennifer Cochran,Trenton Harper"
+    },
+    {
+      "id": 29,
+      "season_id": 4,
+      "episode_nr": 6,
+      "aired_date": "2015-05-31",
+      "title": "Lord of the Rats",
+      "scheduled_length_days": 21,
+      "Location": "Thailand",
+      "Participants": "Angela Narduzzi,Darrin"
+    },
+    {
+      "id": 30,
+      "season_id": 4,
+      "episode_nr": 7,
+      "aired_date": "2015-06-07",
+      "title": "Colombian Conflict",
+      "scheduled_length_days": 21,
+      "Location": "Colombia",
+      "Participants": "Charlie,Dani Beau"
+    },
+    {
+      "id": 31,
+      "season_id": 4,
+      "episode_nr": 9,
+      "aired_date": "2015-06-21",
+      "title": "Garden of Evil",
+      "scheduled_length_days": 21,
+      "Location": "Mexico",
+      "Participants": "Brandon Dix,Robin Barber"
+    },
+    {
+      "id": 32,
+      "season_id": 4,
+      "episode_nr": 10,
+      "aired_date": "2015-06-28",
+      "title": "Redemption Road",
+      "scheduled_length_days": 21,
+      "Location": "Guyana",
+      "Participants": "AK,Jason Szabo"
+    },
+    {
+      "id": 33,
+      "season_id": 4,
+      "episode_nr": 11,
+      "aired_date": "2015-07-19",
+      "title": "Surthrive",
+      "scheduled_length_days": 21,
+      "Location": "Guyana",
+      "Participants": "Bo Stuart,Debbie Harris"
+    },
+    {
+      "id": 34,
+      "season_id": 4,
+      "episode_nr": 12,
+      "aired_date": "2015-07-26",
+      "title": "Easier Said Than Done",
+      "scheduled_length_days": 14,
+      "Location": "Nicaragua",
+      "Participants": "Kristin Young,Paolo Digiralomo"
+    },
+    {
+      "id": 35,
+      "season_id": 5,
+      "episode_nr": 1,
+      "aired_date": "2015-10-04",
+      "title": "Forsaken",
+      "scheduled_length_days": 21,
+      "Location": "Panama",
+      "Participants": "Gary Underhill,Kim"
+    },
+    {
+      "id": 36,
+      "season_id": 5,
+      "episode_nr": 2,
+      "aired_date": "2015-10-11",
+      "title": "Fear the Unknown",
+      "scheduled_length_days": 21,
+      "Location": "Belize",
+      "Participants": "Annie Foley,Trent"
+    },
+    {
+      "id": 37,
+      "season_id": 5,
+      "episode_nr": 3,
+      "aired_date": "2015-10-18",
+      "title": "The Darkest Hour",
+      "scheduled_length_days": 21,
+      "Location": "Namibia",
+      "Participants": "Andrea Lopez,Joe Brandl"
+    },
+    {
+      "id": 38,
+      "season_id": 5,
+      "episode_nr": 4,
+      "aired_date": "2015-10-25",
+      "title": "The Swarm",
+      "scheduled_length_days": 21,
+      "Location": "Panama",
+      "Participants": "Dustin Hobbs,Tara Skubella"
+    },
+    {
+      "id": 39,
+      "season_id": 5,
+      "episode_nr": 5,
+      "aired_date": "2015-11-01",
+      "title": "All or Nothing",
+      "scheduled_length_days": 21,
+      "Location": "Philippines",
+      "Participants": "Cassidy Flynn,Jeremy"
+    },
+    {
+      "id": 40,
+      "season_id": 6,
+      "episode_nr": 2,
+      "aired_date": "2016-03-13",
+      "title": "King of the Forest",
+      "scheduled_length_days": 21,
+      "Location": "Alabama",
+      "Participants": "Chalese Meyer,Steven"
+    },
+    {
+      "id": 41,
+      "season_id": 6,
+      "episode_nr": 3,
+      "aired_date": "2016-03-20",
+      "title": "Frozen in Fear",
+      "scheduled_length_days": 21,
+      "Location": "Canada",
+      "Participants": "Cassie Turner,Greg Wells"
+    },
+    {
+      "id": 42,
+      "season_id": 6,
+      "episode_nr": 4,
+      "aired_date": "2016-03-27",
+      "title": "Rise Above",
+      "scheduled_length_days": 21,
+      "Location": "Brazil",
+      "Participants": "Jake,Jamie Little"
+    },
+    {
+      "id": 43,
+      "season_id": 6,
+      "episode_nr": 5,
+      "aired_date": "2016-04-03",
+      "title": "From the Ashes",
+      "scheduled_length_days": 21,
+      "Location": "Croatia",
+      "Participants": "Lee Trew,Stacey"
+    },
+    {
+      "id": 44,
+      "season_id": 6,
+      "episode_nr": 6,
+      "aired_date": "2016-04-10",
+      "title": "All Falls Down",
+      "scheduled_length_days": 21,
+      "Location": "Belize",
+      "Participants": "Aaron Phillips,Kacie Cleveland"
+    },
+    {
+      "id": 45,
+      "season_id": 6,
+      "episode_nr": 7,
+      "aired_date": "2016-04-17",
+      "title": "Contamination",
+      "scheduled_length_days": 21,
+      "Location": "Philippines",
+      "Participants": "Karen Coffee,Matt Alexander"
+    },
+    {
+      "id": 46,
+      "season_id": 6,
+      "episode_nr": 8,
+      "aired_date": "2016-04-24",
+      "title": "Hell or High Water",
+      "scheduled_length_days": 21,
+      "Location": "Thailand",
+      "Participants": "Lindsay Boisclair,Matt"
+    },
+    {
+      "id": 47,
+      "season_id": 6,
+      "episode_nr": 9,
+      "aired_date": "2016-05-01",
+      "title": "The Danger Within",
+      "scheduled_length_days": 21,
+      "Location": "Florida",
+      "Participants": "Julio Castano,Tawny"
+    },
+    {
+      "id": 48,
+      "season_id": 6,
+      "episode_nr": 11,
+      "aired_date": "2016-05-15",
+      "title": "Melt Down Under",
+      "scheduled_length_days": 21,
+      "Location": "Australia",
+      "Participants": "Laura Thompson-Nelson,Nicklas Lautakoski"
+    },
+    {
+      "id": 49,
+      "season_id": 6,
+      "episode_nr": 12,
+      "aired_date": "2016-05-22",
+      "title": "Bad Blood",
+      "scheduled_length_days": 21,
+      "Location": "Nicaragua",
+      "Participants": "Angel,Nicole Terry"
+    },
+    {
+      "id": 50,
+      "season_id": 6,
+      "episode_nr": 13,
+      "aired_date": "2016-05-29",
+      "title": "Strength in Pain",
+      "scheduled_length_days": 21,
+      "Location": "Honduras",
+      "Participants": "Bree Walker,Clarence"
+    },
+    {
+      "id": 51,
+      "season_id": 6,
+      "episode_nr": 14,
+      "aired_date": "2016-06-05",
+      "title": "23 Days",
+      "scheduled_length_days": 21,
+      "Location": "Namibia",
+      "Participants": "Amber,Don Nguyen,Holly Simmons"
+    },
+    {
+      "id": 52,
+      "season_id": 7,
+      "episode_nr": 1,
+      "aired_date": "2017-03-05",
+      "title": "Eye of the Storm",
+      "scheduled_length_days": 21,
+      "Location": "Belize",
+      "Participants": "Jason Gassaway,Lacey"
+    },
+    {
+      "id": 53,
+      "season_id": 7,
+      "episode_nr": 2,
+      "aired_date": "2017-03-12",
+      "title": "Washed Out",
+      "scheduled_length_days": 21,
+      "Location": "Ecuador",
+      "Participants": "Giovanna,Wes Adams"
+    },
+    {
+      "id": 54,
+      "season_id": 7,
+      "episode_nr": 3,
+      "aired_date": "2017-03-19",
+      "title": "Hangry",
+      "scheduled_length_days": 21,
+      "Location": "Trinidad",
+      "Participants": "Shannon Kulpa,Timothy Lair"
+    },
+    {
+      "id": 55,
+      "season_id": 7,
+      "episode_nr": 5,
+      "aired_date": "2017-04-02",
+      "title": "Ashes to Ashes",
+      "scheduled_length_days": 21,
+      "Location": "Montserrat",
+      "Participants": "Chad,Dawn"
+    },
+    {
+      "id": 56,
+      "season_id": 7,
+      "episode_nr": 6,
+      "aired_date": "2017-04-09",
+      "title": "The Lost World",
+      "scheduled_length_days": 14,
+      "Location": "South Africa",
+      "Participants": "Gabrielle,Jonathan Short"
+    },
+    {
+      "id": 57,
+      "season_id": 7,
+      "episode_nr": 7,
+      "aired_date": "2017-04-16",
+      "title": "The Monster",
+      "scheduled_length_days": 21,
+      "Location": "Australia",
+      "Participants": "Dan Gardner,Maria Corrales"
+    },
+    {
+      "id": 58,
+      "season_id": 7,
+      "episode_nr": 8,
+      "aired_date": "2017-04-23",
+      "title": "Unhinged",
+      "scheduled_length_days": 21,
+      "Location": "Panama",
+      "Participants": "Geoff Wilson,Melissa LeEllen"
+    },
+    {
+      "id": 59,
+      "season_id": 7,
+      "episode_nr": 9,
+      "aired_date": "2017-04-30",
+      "title": "Curse of the Swamp",
+      "scheduled_length_days": 21,
+      "Location": "Louisiana",
+      "Participants": "Jeremy,Michelle Etchings,Melanie"
+    },
+    {
+      "id": 60,
+      "season_id": 7,
+      "episode_nr": 10,
+      "aired_date": "2017-05-07",
+      "title": "Curse of the Swamp: Part 2",
+      "scheduled_length_days": 21,
+      "Location": "Louisiana",
+      "Participants": "Melanie,Michelle Etchings,Jeremy"
+    },
+    {
+      "id": 61,
+      "season_id": 7,
+      "episode_nr": 11,
+      "aired_date": "2017-05-14",
+      "title": "Arachnid Overload",
+      "scheduled_length_days": 21,
+      "Location": "Colombia",
+      "Participants": "David Scott,Kaila"
+    },
+    {
+      "id": 62,
+      "season_id": 7,
+      "episode_nr": 12,
+      "aired_date": "2017-05-21",
+      "title": "Worlds Collide",
+      "scheduled_length_days": 40,
+      "Location": "Ecuador",
+      "Participants": "Amber,Chance Davis,Charlie,Fernando,Giovanna,Lacey,Matt,Matt Alexander,Melissa,Russell,Shannon Kulpa"
+    },
+    {
+      "id": 63,
+      "season_id": 8,
+      "episode_nr": 1,
+      "aired_date": "2017-07-30",
+      "title": "Lost at Sea",
+      "scheduled_length_days": 21,
+      "Location": "Bahamas",
+      "Participants": "Ben Johnson,Sarah Danser"
+    },
+    {
+      "id": 64,
+      "season_id": 8,
+      "episode_nr": 2,
+      "aired_date": "2017-08-02",
+      "title": "Texan Torture",
+      "scheduled_length_days": 21,
+      "Location": "Texas",
+      "Participants": "McKenzie Clark,Scott Thompson"
+    },
+    {
+      "id": 65,
+      "season_id": 8,
+      "episode_nr": 3,
+      "aired_date": "2017-08-03",
+      "title": "The Hunted",
+      "scheduled_length_days": 21,
+      "Location": "Belize",
+      "Participants": "Duck,Sarah Wiley"
+    },
+    {
+      "id": 66,
+      "season_id": 8,
+      "episode_nr": 4,
+      "aired_date": "2017-08-06",
+      "title": "Rain Of Terror",
+      "scheduled_length_days": 21,
+      "Location": "Ecuador",
+      "Participants": "Kaila Donaldson,Trevor Rasmussen"
+    },
+    {
+      "id": 67,
+      "season_id": 8,
+      "episode_nr": 5,
+      "aired_date": "2017-08-13",
+      "title": "Stone Cold",
+      "scheduled_length_days": 21,
+      "Location": "Croatia",
+      "Participants": "Adam Adams,Samantha Ohl"
+    },
+    {
+      "id": 68,
+      "season_id": 8,
+      "episode_nr": 6,
+      "aired_date": "2017-08-20",
+      "title": "Belize Breakdown",
+      "scheduled_length_days": 14,
+      "Location": "Belize",
+      "Participants": "Anastasia Ashley,Cory Williams"
+    },
+    {
+      "id": 69,
+      "season_id": 9,
+      "episode_nr": 1,
+      "aired_date": "2018-03-11",
+      "title": "Category 5 Survival",
+      "scheduled_length_days": 21,
+      "Location": "Florida",
+      "Participants": "Amal Alyassiri,Duke"
+    },
+    {
+      "id": 70,
+      "season_id": 9,
+      "episode_nr": 2,
+      "aired_date": "2018-03-18",
+      "title": "A Screw Loose",
+      "scheduled_length_days": 21,
+      "Location": "Mexico",
+      "Participants": "Caesar Aliva,Leah Chandler"
+    },
+    {
+      "id": 71,
+      "season_id": 9,
+      "episode_nr": 3,
+      "aired_date": "2018-03-25",
+      "title": "Swamp Queen",
+      "scheduled_length_days": 21,
+      "Location": "Mississippi",
+      "Participants": "Brian Schultz,Gabrielle"
+    },
+    {
+      "id": 72,
+      "season_id": 9,
+      "episode_nr": 4,
+      "aired_date": "2018-04-01",
+      "title": "Forbidden Fruit",
+      "scheduled_length_days": 21,
+      "Location": "Brazil",
+      "Participants": "Gary,Karra Falkenstein"
+    },
+    {
+      "id": 73,
+      "season_id": 9,
+      "episode_nr": 5,
+      "aired_date": "2018-04-08",
+      "title": "Island of Tears",
+      "scheduled_length_days": 14,
+      "Location": "Panama",
+      "Participants": "Bianca Isidro,Max"
+    },
+    {
+      "id": 74,
+      "season_id": 9,
+      "episode_nr": 6,
+      "aired_date": "2018-04-15",
+      "title": "Thieves in the Night",
+      "scheduled_length_days": 21,
+      "Location": "Mexico",
+      "Participants": "Ava Holmes,Larry Little,Steven Townes"
+    },
+    {
+      "id": 75,
+      "season_id": 9,
+      "episode_nr": 7,
+      "aired_date": "2018-04-22",
+      "title": "Love at First Fight",
+      "scheduled_length_days": 21,
+      "Location": "Nicaragua",
+      "Participants": "James,Leah McCabe,Wes Heustess"
+    },
+    {
+      "id": 76,
+      "season_id": 9,
+      "episode_nr": 8,
+      "aired_date": "2018-04-29",
+      "title": "Burnt to a Crisp",
+      "scheduled_length_days": 21,
+      "Location": "Nicaragua",
+      "Participants": "LeAnn Duncan,Lee Diehl"
+    },
+    {
+      "id": 77,
+      "season_id": 9,
+      "episode_nr": 9,
+      "aired_date": "2018-05-06",
+      "title": "Loaded for Bear",
+      "scheduled_length_days": 21,
+      "Location": "Tennessee",
+      "Participants": "Jermaine,Teal Bulthius"
+    },
+    {
+      "id": 78,
+      "season_id": 9,
+      "episode_nr": 10,
+      "aired_date": "2018-05-13",
+      "title": "Pick Your Poison",
+      "scheduled_length_days": 21,
+      "Location": "Brazil",
+      "Participants": "Anthony Coppage,Suzanne"
+    },
+    {
+      "id": 79,
+      "season_id": 9,
+      "episode_nr": 11,
+      "aired_date": "2018-06-10",
+      "title": "Trouble in Paradise",
+      "scheduled_length_days": 21,
+      "Location": "Honduras",
+      "Participants": "Kyle Oelofse,Rylie"
+    },
+    {
+      "id": 80,
+      "season_id": 9,
+      "episode_nr": 12,
+      "aired_date": "2018-06-24",
+      "title": "Fan Down",
+      "scheduled_length_days": 14,
+      "Location": "Nicaragua",
+      "Participants": "Justin Tuell,Maci Bookout"
+    },
+    {
+      "id": 81,
+      "season_id": 9,
+      "episode_nr": 13,
+      "aired_date": "2018-07-29",
+      "title": "Naked and Afraid Of Sharks",
+      "scheduled_length_days": 14,
+      "Location": "Bahamas",
+      "Participants": "Chris,Eva,Ky,Ryan Holt,Steven"
+    },
+    {
+      "id": 82,
+      "season_id": 9,
+      "episode_nr": 14,
+      "aired_date": "2018-08-05",
+      "title": "Blindsided",
+      "scheduled_length_days": 21,
+      "Location": "Panama",
+      "Participants": "Angela,Steven Townes"
+    },
+    {
+      "id": 83,
+      "season_id": 9,
+      "episode_nr": 16,
+      "aired_date": "2018-08-12",
+      "title": "Fire and Fury",
+      "scheduled_length_days": 21,
+      "Location": "South Africa",
+      "Participants": "Angela,Chad"
+    },
+    {
+      "id": 84,
+      "season_id": 10,
+      "episode_nr": 2,
+      "aired_date": "2019-03-03",
+      "title": "Frozen and Afraid",
+      "scheduled_length_days": 14,
+      "Location": "Alaska",
+      "Participants": "Laura,Steven"
+    },
+    {
+      "id": 85,
+      "season_id": 10,
+      "episode_nr": 3,
+      "aired_date": "2019-03-03",
+      "title": "Got Another Sting Coming",
+      "scheduled_length_days": 21,
+      "Location": "Brazil",
+      "Participants": "Nathan Martinez,Whitney Hamblin"
+    },
+    {
+      "id": 86,
+      "season_id": 10,
+      "episode_nr": 4,
+      "aired_date": "2019-03-10",
+      "title": "No Safety in Numbers",
+      "scheduled_length_days": 21,
+      "Location": "Panama",
+      "Participants": "Kate,Max,Sara Burkett,Seth"
+    },
+    {
+      "id": 87,
+      "season_id": 10,
+      "episode_nr": 5,
+      "aired_date": "2019-03-17",
+      "title": "Threesome",
+      "scheduled_length_days": 21,
+      "Location": "Ecuador",
+      "Participants": "David Shirley,Makani,Sarah Bartell"
+    },
+    {
+      "id": 88,
+      "season_id": 10,
+      "episode_nr": 6,
+      "aired_date": "2019-03-17",
+      "title": "Baked Alaskan",
+      "scheduled_length_days": 21,
+      "Location": "Mexico",
+      "Participants": "Gwen,Jon Hart"
+    },
+    {
+      "id": 89,
+      "season_id": 10,
+      "episode_nr": 7,
+      "aired_date": "2019-03-24",
+      "title": "Stomping Grounds",
+      "scheduled_length_days": 21,
+      "Location": "South Africa",
+      "Participants": "Blair Braverman,Gary,Matt,Molly Jansen"
+    },
+    {
+      "id": 90,
+      "season_id": 10,
+      "episode_nr": 8,
+      "aired_date": "2019-03-31",
+      "title": "Bite Club",
+      "scheduled_length_days": 21,
+      "Location": "Mozambique",
+      "Participants": "Brooke Wright,Dylan Williams"
+    },
+    {
+      "id": 91,
+      "season_id": 10,
+      "episode_nr": 9,
+      "aired_date": "2019-03-31",
+      "title": "The Spirits Are Angry",
+      "scheduled_length_days": 21,
+      "Location": "Colombia",
+      "Participants": "Bulent,Cat Orza"
+    },
+    {
+      "id": 92,
+      "season_id": 10,
+      "episode_nr": 11,
+      "aired_date": "2019-04-14",
+      "title": "Stalked on All Sides",
+      "scheduled_length_days": 21,
+      "Location": "South Africa",
+      "Participants": "Eric Jorgenson,Kelly Roske"
+    },
+    {
+      "id": 93,
+      "season_id": 10,
+      "episode_nr": 12,
+      "aired_date": "2019-04-21",
+      "title": "Swamp Don't Care",
+      "scheduled_length_days": 21,
+      "Location": "Florida",
+      "Participants": "Jake,Melissa"
+    },
+    {
+      "id": 94,
+      "season_id": 10,
+      "episode_nr": 13,
+      "aired_date": "2019-04-28",
+      "title": "What The Duck?",
+      "scheduled_length_days": 14,
+      "Location": "Mexico",
+      "Participants": "Dan,Holly Roberts"
+    },
+    {
+      "id": 95,
+      "season_id": 10,
+      "episode_nr": 14,
+      "aired_date": "2019-05-05",
+      "title": "For Better or A Lot Worse",
+      "scheduled_length_days": 21,
+      "Location": "Guyana",
+      "Participants": "Star Torres,Tony Wheeler"
+    },
+    {
+      "id": 96,
+      "season_id": 10,
+      "episode_nr": 15,
+      "aired_date": "2019-05-12",
+      "title": "Don't Let the Jungle Bugs Bite",
+      "scheduled_length_days": 21,
+      "Location": "Colombia",
+      "Participants": "Jeremy Upshaw,Trish"
+    },
+    {
+      "id": 97,
+      "season_id": 10,
+      "episode_nr": 16,
+      "aired_date": "2019-05-19",
+      "title": "Meltdown on the Mountain",
+      "scheduled_length_days": 21,
+      "Location": "Colombia",
+      "Participants": "Leah Olszewski,Tommy Brown"
+    },
+    {
+      "id": 98,
+      "season_id": 10,
+      "episode_nr": 18,
+      "aired_date": "2019-06-16",
+      "title": "Honduran Hell",
+      "scheduled_length_days": 21,
+      "Location": "Honduras",
+      "Participants": "Quince Mountain,Theresa Owens"
+    },
+    {
+      "id": 99,
+      "season_id": 10,
+      "episode_nr": 19,
+      "aired_date": "2019-06-23",
+      "title": "Stalked on the Savannah Part 1",
+      "scheduled_length_days": 21,
+      "Location": "Brazil",
+      "Participants": "Jesse Everett,Wes"
+    },
+    {
+      "id": 100,
+      "season_id": 10,
+      "episode_nr": 20,
+      "aired_date": "2019-06-30",
+      "title": "Stalked on the Savannah Part 2",
+      "scheduled_length_days": 21,
+      "Location": "Brazil",
+      "Participants": "Wes,Jesse Everett"
+    },
+    {
+      "id": 101,
+      "season_id": 10,
+      "episode_nr": 21,
+      "aired_date": "2019-09-26",
+      "title": "Feel the Burn",
+      "scheduled_length_days": 14,
+      "Location": "Guyana",
+      "Participants": "Jen,Shane Bulloch"
+    },
+    {
+      "id": 102,
+      "season_id": 11,
+      "episode_nr": 1,
+      "aired_date": "2020-02-23",
+      "title": "Twinning",
+      "scheduled_length_days": 21,
+      "Location": "South Africa",
+      "Participants": "Amber Shine,Serena Shine,Thomas Virgets,Warren Virgets"
+    },
+    {
+      "id": 103,
+      "season_id": 11,
+      "episode_nr": 2,
+      "aired_date": "2020-03-01",
+      "title": "Little Person, Big Challenge",
+      "scheduled_length_days": 21,
+      "Location": "Ecuador",
+      "Participants": "Alex Manard,Holly Roberts"
+    },
+    {
+      "id": 104,
+      "season_id": 11,
+      "episode_nr": 3,
+      "aired_date": "2020-03-01",
+      "title": "Bahama Drama",
+      "scheduled_length_days": 14,
+      "Location": "Bahamas",
+      "Participants": "Daren Jackson,Morgan Reed"
+    },
+    {
+      "id": 105,
+      "season_id": 11,
+      "episode_nr": 4,
+      "aired_date": "2020-03-08",
+      "title": "Two Tarzans, One Jane",
+      "scheduled_length_days": 21,
+      "Location": "Colombia",
+      "Participants": "Alexandra Martin,Daniel Rosenberg,Michael Dietrich"
+    },
+    {
+      "id": 106,
+      "season_id": 11,
+      "episode_nr": 5,
+      "aired_date": "2020-03-15",
+      "title": "Naked and Ghosted",
+      "scheduled_length_days": 21,
+      "Location": "Mexico",
+      "Participants": "Sarah Danser,Trent"
+    },
+    {
+      "id": 107,
+      "season_id": 11,
+      "episode_nr": 6,
+      "aired_date": "2020-03-15",
+      "title": "Close Encounters",
+      "scheduled_length_days": 21,
+      "Location": "South Africa",
+      "Participants": "Ryan Eacret,Sherean Rogouski"
+    },
+    {
+      "id": 108,
+      "season_id": 11,
+      "episode_nr": 7,
+      "aired_date": "2020-03-22",
+      "title": "In Too Deep",
+      "scheduled_length_days": 21,
+      "Location": "Bahamas",
+      "Participants": "Joe Maynard,Lisa Hagan"
+    },
+    {
+      "id": 109,
+      "season_id": 11,
+      "episode_nr": 8,
+      "aired_date": "2020-03-28",
+      "title": "Blood, Sweat and Fears",
+      "scheduled_length_days": 21,
+      "Location": "Mexico",
+      "Participants": "Bulent,Sara Burkett"
+    },
+    {
+      "id": 110,
+      "season_id": 11,
+      "episode_nr": 9,
+      "aired_date": "2020-03-28",
+      "title": "Trying to Deal with the Devil",
+      "scheduled_length_days": 21,
+      "Location": "Mexico",
+      "Participants": "Christopher James,Laurae"
+    },
+    {
+      "id": 111,
+      "season_id": 11,
+      "episode_nr": 10,
+      "aired_date": "2020-04-05",
+      "title": "Biting Back at Africa",
+      "scheduled_length_days": 21,
+      "Location": "South Africa",
+      "Participants": "Danielle Tomarchio,Diggie Roberts,Lauren Fagen,Rod"
+    },
+    {
+      "id": 112,
+      "season_id": 11,
+      "episode_nr": 11,
+      "aired_date": "2020-04-12",
+      "title": "Shaken and Very Stirred",
+      "scheduled_length_days": 21,
+      "Location": "Philippines",
+      "Participants": "Jess Cornellier,Jon Bonessi"
+    },
+    {
+      "id": 113,
+      "season_id": 11,
+      "episode_nr": 12,
+      "aired_date": "2020-04-12",
+      "title": "Amazoned Out",
+      "scheduled_length_days": 14,
+      "Location": "Ecuador",
+      "Participants": "Molly Cowles,Nate Cook"
+    },
+    {
+      "id": 114,
+      "season_id": 11,
+      "episode_nr": 13,
+      "aired_date": "2020-04-19",
+      "title": "Ring of Fire",
+      "scheduled_length_days": 21,
+      "Location": "Bulgaria",
+      "Participants": "Brandon Dix,Brandon Pope,Jen"
+    },
+    {
+      "id": 115,
+      "season_id": 11,
+      "episode_nr": 14,
+      "aired_date": "2020-04-25",
+      "title": "21 Miles, 21 Days",
+      "scheduled_length_days": 21,
+      "Location": "South Africa",
+      "Participants": "Kaiela Hobart,Tim"
+    },
+    {
+      "id": 116,
+      "season_id": 11,
+      "episode_nr": 15,
+      "aired_date": "2020-05-03",
+      "title": "Honeymoon From Hell",
+      "scheduled_length_days": 14,
+      "Location": "Philippines",
+      "Participants": "Anna Fanning,Jared Fanning"
+    },
+    {
+      "id": 117,
+      "season_id": 11,
+      "episode_nr": 16,
+      "aired_date": "2020-05-10",
+      "title": "Don't Cave In",
+      "scheduled_length_days": 21,
+      "Location": "Colombia",
+      "Participants": "Jessica,Mike Morency"
+    },
+    {
+      "id": 118,
+      "season_id": 11,
+      "episode_nr": 17,
+      "aired_date": "2020-05-17",
+      "title": "Snow Daze",
+      "scheduled_length_days": 14,
+      "Location": "Montana",
+      "Participants": "Dave Tucker,Laurae,Sarah Salmond"
+    },
+    {
+      "id": 119,
+      "season_id": 11,
+      "episode_nr": 109,
+      "aired_date": "2020-08-16",
+      "title": "Swimming Naked with Sharks",
+      "scheduled_length_days": 14,
+      "Location": "Bahamas",
+      "Participants": "Matt,Jeff,Amber Shine,Serena Shine,Alex Manard"
+    },
+    {
+      "id": 120,
+      "season_id": 12,
+      "episode_nr": 1,
+      "aired_date": "2021-03-07",
+      "title": "No Rain, No Gain",
+      "scheduled_length_days": 21,
+      "Location": "Georgia",
+      "Participants": "Holly Moss,Jake Johnson"
+    },
+    {
+      "id": 121,
+      "season_id": 12,
+      "episode_nr": 2,
+      "aired_date": "2021-03-07",
+      "title": "Mile-High Clubbed",
+      "scheduled_length_days": 21,
+      "Location": "Colorado",
+      "Participants": "Danny Graves,Hailey Barber"
+    },
+    {
+      "id": 122,
+      "season_id": 12,
+      "episode_nr": 3,
+      "aired_date": "2021-03-14",
+      "title": "The Devil's Woods",
+      "scheduled_length_days": 21,
+      "Location": "Montana",
+      "Participants": "Joe Ortlip,Sam Gerges"
+    },
+    {
+      "id": 123,
+      "season_id": 12,
+      "episode_nr": 4,
+      "aired_date": "2021-03-21",
+      "title": "Sand Trapped",
+      "scheduled_length_days": 21,
+      "Location": "Mexico",
+      "Participants": "Dan,Meghann Harris"
+    },
+    {
+      "id": 124,
+      "season_id": 12,
+      "episode_nr": 5,
+      "aired_date": "2021-03-21",
+      "title": "Stars Against the Storm",
+      "scheduled_length_days": 21,
+      "Location": "Ecuador",
+      "Participants": "Suzanne,Wes"
+    },
+    {
+      "id": 125,
+      "season_id": 12,
+      "episode_nr": 6,
+      "aired_date": "2021-03-28",
+      "title": "A Tangled Web in Texas",
+      "scheduled_length_days": 21,
+      "Location": "Texas",
+      "Participants": "Emily Caselman,Lincoln Samuelson"
+    },
+    {
+      "id": 126,
+      "season_id": 12,
+      "episode_nr": 7,
+      "aired_date": "2021-04-04",
+      "title": "Shart Attack",
+      "scheduled_length_days": 14,
+      "Location": "Arizona",
+      "Participants": "Ashley Morin,Matt Garland"
+    },
+    {
+      "id": 127,
+      "season_id": 12,
+      "episode_nr": 8,
+      "aired_date": "2021-04-04",
+      "title": "Monkey Business",
+      "scheduled_length_days": 21,
+      "Location": "Namibia",
+      "Participants": "Adam Kavanagh,Samantha Cline"
+    },
+    {
+      "id": 128,
+      "season_id": 12,
+      "episode_nr": 9,
+      "aired_date": "2021-04-11",
+      "title": "Okay, Boomer",
+      "scheduled_length_days": 21,
+      "Location": "Arizona",
+      "Participants": "Amanda MacArthur,Calvin Popp,Joe Nichter,Rhonda Placourakis"
+    },
+    {
+      "id": 129,
+      "season_id": 12,
+      "episode_nr": 10,
+      "aired_date": "2021-04-18",
+      "title": "Bite Me",
+      "scheduled_length_days": 21,
+      "Location": "South Africa",
+      "Participants": "Andrew Shayde,Elizabeth Hensley"
+    },
+    {
+      "id": 130,
+      "season_id": 12,
+      "episode_nr": 11,
+      "aired_date": "2021-04-18",
+      "title": "Come Hell and Black Water",
+      "scheduled_length_days": 21,
+      "Location": "Florida",
+      "Participants": "Rose Godfrey,Waz"
+    },
+    {
+      "id": 131,
+      "season_id": 13,
+      "episode_nr": 1,
+      "aired_date": "2021-08-01",
+      "title": "Baskets and Bullet Ants",
+      "scheduled_length_days": 21,
+      "Location": "Ecuador",
+      "Participants": "Dani Beau,Fernando"
+    },
+    {
+      "id": 132,
+      "season_id": 13,
+      "episode_nr": 2,
+      "aired_date": "2021-08-08",
+      "title": "Two is a Crowd",
+      "scheduled_length_days": 21,
+      "Location": "South Africa",
+      "Participants": "Darvil McBride,Lynsey McCarver"
+    },
+    {
+      "id": 133,
+      "season_id": 13,
+      "episode_nr": 3,
+      "aired_date": "2021-08-15",
+      "title": "The Death Ledge",
+      "scheduled_length_days": 21,
+      "Location": "Ecuador",
+      "Participants": "Aosha Wells,Brittany Wallace,Tanner Barclay"
+    },
+    {
+      "id": 134,
+      "season_id": 13,
+      "episode_nr": 4,
+      "aired_date": "2021-08-22",
+      "title": "USA vs. World",
+      "scheduled_length_days": 21,
+      "Location": "South Africa",
+      "Participants": "Beverly Reynolds,Brandon Snyder,Jamie Frizzell,Jessica"
+    },
+    {
+      "id": 135,
+      "season_id": 13,
+      "episode_nr": 5,
+      "aired_date": "2021-08-29",
+      "title": "Gag Me with a Turtle",
+      "scheduled_length_days": 14,
+      "Location": "South Africa",
+      "Participants": "Kayla Groves,Scott Davis"
+    },
+    {
+      "id": 136,
+      "season_id": 13,
+      "episode_nr": 6,
+      "aired_date": "2021-09-05",
+      "title": "Buffalo Bait",
+      "scheduled_length_days": 14,
+      "Location": "South Africa",
+      "Participants": "Ali Moxley,Andrew Forestell"
+    },
+    {
+      "id": 137,
+      "season_id": 14,
+      "episode_nr": 1,
+      "aired_date": "2022-02-27",
+      "title": "Curse of the Chiapas",
+      "scheduled_length_days": 21,
+      "Location": "Mexico",
+      "Participants": "Jeremy Rowe,Shanika"
+    },
+    {
+      "id": 138,
+      "season_id": 14,
+      "episode_nr": 2,
+      "aired_date": "2022-02-27",
+      "title": "Haunted and Hungry",
+      "scheduled_length_days": 21,
+      "Location": "Colombia",
+      "Participants": "Ann Alford,Zach Benton"
+    },
+    {
+      "id": 139,
+      "season_id": 14,
+      "episode_nr": 3,
+      "aired_date": "2022-03-06",
+      "title": "Fallen Farmer",
+      "scheduled_length_days": 21,
+      "Location": "Zambia",
+      "Participants": "Shaun Harvey,Terra"
+    },
+    {
+      "id": 140,
+      "season_id": 14,
+      "episode_nr": 4,
+      "aired_date": "2022-03-06",
+      "title": "Sibling Survival",
+      "scheduled_length_days": 21,
+      "Location": "Zambia",
+      "Participants": "Kat Sibley,Warrick Harvey"
+    },
+    {
+      "id": 141,
+      "season_id": 14,
+      "episode_nr": 5,
+      "aired_date": "2022-03-13",
+      "title": "Night Stalkers",
+      "scheduled_length_days": 21,
+      "Location": "Botswana",
+      "Participants": "Elijah Strongheart,Monica Heim"
+    },
+    {
+      "id": 142,
+      "season_id": 14,
+      "episode_nr": 6,
+      "aired_date": "2022-03-20",
+      "title": "Next Gen Survival",
+      "scheduled_length_days": 14,
+      "Location": "Mexico",
+      "Participants": "Julia Bulinsky,Waylon Harper"
+    },
+    {
+      "id": 143,
+      "season_id": 14,
+      "episode_nr": 7,
+      "aired_date": "2022-03-20",
+      "title": "Valley of the Leopards",
+      "scheduled_length_days": 21,
+      "Location": "Zambia",
+      "Participants": "Kerra Bennett,Matt Garland"
+    },
+    {
+      "id": 144,
+      "season_id": 14,
+      "episode_nr": 8,
+      "aired_date": "2022-03-27",
+      "title": "Opposites Don't Attract",
+      "scheduled_length_days": 21,
+      "Location": "Colombia",
+      "Participants": "Molly Daley,Nathan Olesen"
+    },
+    {
+      "id": 145,
+      "season_id": 14,
+      "episode_nr": 9,
+      "aired_date": "2022-04-03",
+      "title": "Legends and Rookies",
+      "scheduled_length_days": 21,
+      "Location": "South Africa",
+      "Participants": "Max,Michaelyn Ritchie,Noah Mattes,Rylie"
+    },
+    {
+      "id": 146,
+      "season_id": 14,
+      "episode_nr": 10,
+      "aired_date": "2022-04-10",
+      "title": "Battle of the Sexes",
+      "scheduled_length_days": 21,
+      "Location": "South Africa",
+      "Participants": "Cheeny,Jared Guillien,Rebel Blalock,Rusty Thomas"
+    },
+    {
+      "id": 147,
+      "season_id": 14,
+      "episode_nr": 11,
+      "aired_date": "2022-04-17",
+      "title": "Abandoned Village",
+      "scheduled_length_days": 21,
+      "Location": "Botswana",
+      "Participants": "Gabriel Moraga,Marissa Joy"
+    },
+    {
+      "id": 148,
+      "season_id": 14,
+      "episode_nr": 12,
+      "aired_date": "2022-04-17",
+      "title": "The Labyrinth",
+      "scheduled_length_days": 21,
+      "Location": "Colombia",
+      "Participants": "Andrew Bishop,Rizza Bagan"
+    },
+    {
+      "id": 149,
+      "season_id": 14,
+      "episode_nr": 13,
+      "aired_date": "2022-04-24",
+      "title": "Lost in Translation",
+      "scheduled_length_days": 21,
+      "Location": "South Africa",
+      "Participants": "Diogo De Souza,Nicole Smith"
+    },
+    {
+      "id": 150,
+      "season_id": 1,
+      "episode_nr": 2,
+      "aired_date": "2015-07-12",
+      "title": "XL: 40 Days and 40 Nights",
+      "scheduled_length_days": 40,
+      "Location": "Colombia",
+      "Participants": "Laura,Luke,Shane,Alana,Chris,Dani Beau,Dani Julien,EJ,Eva,Hakim,Honora,Jeff"
+    },
+    {
+      "id": 151,
+      "season_id": 1,
+      "episode_nr": 3,
+      "aired_date": "2015-07-19",
+      "title": "40 Days: No Escape",
+      "scheduled_length_days": 40,
+      "Location": "Colombia",
+      "Participants": "Jeff,Honora,Hakim,Eva,EJ,Dani Julien,Dani Beau,Chris,Alana,Shane,Luke,Laura"
+    },
+    {
+      "id": 152,
+      "season_id": 1,
+      "episode_nr": 4,
+      "aired_date": "2015-07-26",
+      "title": "40 Days: Snake in the Grass",
+      "scheduled_length_days": 40,
+      "Location": "Colombia",
+      "Participants": "Laura,Luke,Shane,Alana,Chris,Dani Beau,Dani Julien,EJ,Eva,Hakim,Honora,Jeff"
+    },
+    {
+      "id": 153,
+      "season_id": 1,
+      "episode_nr": 5,
+      "aired_date": "2015-08-01",
+      "title": "40 Days: Jungle Rich",
+      "scheduled_length_days": 40,
+      "Location": "Colombia",
+      "Participants": "Jeff,Honora,Hakim,Eva,EJ,Dani Julien,Dani Beau,Chris,Alana,Shane,Luke,Laura"
+    },
+    {
+      "id": 154,
+      "season_id": 1,
+      "episode_nr": 6,
+      "aired_date": "2015-08-09",
+      "title": "40 Days: Death March",
+      "scheduled_length_days": 40,
+      "Location": "Colombia",
+      "Participants": "Laura,Luke,Shane,Alana,Chris,Dani Beau,Dani Julien,EJ,Eva,Hakim,Honora,Jeff"
+    },
+    {
+      "id": 155,
+      "season_id": 1,
+      "episode_nr": 7,
+      "aired_date": "2015-08-16",
+      "title": "40 Days: Sacrifice",
+      "scheduled_length_days": 40,
+      "Location": "Colombia",
+      "Participants": "Jeff,Honora,Hakim,Eva,EJ,Dani Julien,Dani Beau,Chris,Alana,Shane,Luke,Laura"
+    },
+    {
+      "id": 156,
+      "season_id": 1,
+      "episode_nr": 8,
+      "aired_date": "2015-08-23",
+      "title": "40 Days: Falling Apart",
+      "scheduled_length_days": 40,
+      "Location": "Colombia",
+      "Participants": "Laura,Luke,Shane,Alana,Chris,Dani Beau,Dani Julien,EJ,Eva,Hakim,Honora,Jeff"
+    },
+    {
+      "id": 157,
+      "season_id": 1,
+      "episode_nr": 9,
+      "aired_date": "2015-08-30",
+      "title": "40 Days: Filth and Fury",
+      "scheduled_length_days": 40,
+      "Location": "Colombia",
+      "Participants": "Jeff,Honora,Hakim,Eva,EJ,Dani Julien,Dani Beau,Chris,Alana,Shane,Luke,Laura"
+    },
+    {
+      "id": 158,
+      "season_id": 2,
+      "episode_nr": 2,
+      "aired_date": "2016-07-10",
+      "title": "XL: Lions at the Gate",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Angel,Alyssa,Carrie,Clarence,Darrin,Jake,Kim,Phaedra,Ryan Holt,Stacey,Steven,Tawny"
+    },
+    {
+      "id": 159,
+      "season_id": 2,
+      "episode_nr": 3,
+      "aired_date": "2016-07-17",
+      "title": "XL: Man on Fire",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Tawny,Steven,Stacey,Ryan Holt,Phaedra,Kim,Jake,Darrin,Clarence,Carrie,Alyssa,Angel"
+    },
+    {
+      "id": 160,
+      "season_id": 2,
+      "episode_nr": 4,
+      "aired_date": "2016-07-24",
+      "title": "XL: Human Prey",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Angel,Alyssa,Carrie,Clarence,Darrin,Jake,Kim,Phaedra,Ryan Holt,Stacey,Steven,Tawny"
+    },
+    {
+      "id": 161,
+      "season_id": 2,
+      "episode_nr": 5,
+      "aired_date": "2016-07-31",
+      "title": "XL: Too Many Chiefs",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Tawny,Steven,Stacey,Ryan Holt,Phaedra,Kim,Jake,Darrin,Clarence,Carrie,Alyssa,Angel"
+    },
+    {
+      "id": 162,
+      "season_id": 2,
+      "episode_nr": 6,
+      "aired_date": "2016-08-07",
+      "title": "XL: Rock Bottom",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Angel,Alyssa,Carrie,Clarence,Darrin,Jake,Kim,Phaedra,Ryan Holt,Stacey,Steven,Tawny"
+    },
+    {
+      "id": 163,
+      "season_id": 2,
+      "episode_nr": 7,
+      "aired_date": "2016-08-14",
+      "title": "XL: Deadly Consequences",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Tawny,Steven,Stacey,Ryan Holt,Phaedra,Kim,Jake,Darrin,Clarence,Carrie,Alyssa,Angel"
+    },
+    {
+      "id": 164,
+      "season_id": 2,
+      "episode_nr": 8,
+      "aired_date": "2016-08-21",
+      "title": "XL: The Sickness",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Angel,Alyssa,Carrie,Clarence,Darrin,Jake,Kim,Phaedra,Ryan Holt,Stacey,Steven,Tawny"
+    },
+    {
+      "id": 165,
+      "season_id": 2,
+      "episode_nr": 9,
+      "aired_date": "2016-08-28",
+      "title": "XL: The Last Roar",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Tawny,Steven,Stacey,Ryan Holt,Phaedra,Kim,Jake,Darrin,Clarence,Carrie,Alyssa,Angel"
+    },
+    {
+      "id": 166,
+      "season_id": 3,
+      "episode_nr": 1,
+      "aired_date": "2017-04-23",
+      "title": "Heart of Darkness",
+      "scheduled_length_days": 40,
+      "Location": "Ecuador",
+      "Participants": "Fernando,Charlie,Chance Davis,Amber,Matt Alexander,Matt,Lacey,Giovanna,Shannon Kulpa,Russell,Melissa"
+    },
+    {
+      "id": 167,
+      "season_id": 3,
+      "episode_nr": 2,
+      "aired_date": "2017-04-30",
+      "title": "What Lies Beneath",
+      "scheduled_length_days": 40,
+      "Location": "Ecuador",
+      "Participants": "Melissa,Russell,Shannon Kulpa,Giovanna,Lacey,Matt,Matt Alexander,Amber,Chance Davis,Charlie,Fernando"
+    },
+    {
+      "id": 168,
+      "season_id": 3,
+      "episode_nr": 3,
+      "aired_date": "2017-05-07",
+      "title": "Shattered",
+      "scheduled_length_days": 40,
+      "Location": "Ecuador",
+      "Participants": "Fernando,Charlie,Chance Davis,Amber,Matt Alexander,Matt,Lacey,Giovanna,Shannon Kulpa,Russell,Melissa"
+    },
+    {
+      "id": 169,
+      "season_id": 3,
+      "episode_nr": 4,
+      "aired_date": "2017-05-14",
+      "title": "Outbreak",
+      "scheduled_length_days": 40,
+      "Location": "Ecuador",
+      "Participants": "Melissa,Russell,Shannon Kulpa,Giovanna,Lacey,Matt,Matt Alexander,Amber,Chance Davis,Charlie,Fernando"
+    },
+    {
+      "id": 170,
+      "season_id": 3,
+      "episode_nr": 5,
+      "aired_date": "2017-05-21",
+      "title": "Worlds Collide Part 2",
+      "scheduled_length_days": 40,
+      "Location": "Ecuador",
+      "Participants": "Fernando,Charlie,Chance Davis,Amber,Matt Alexander,Matt,Lacey,Giovanna,Shannon Kulpa,Russell,Melissa"
+    },
+    {
+      "id": 171,
+      "season_id": 3,
+      "episode_nr": 6,
+      "aired_date": "2017-05-28",
+      "title": "Divided We Fall",
+      "scheduled_length_days": 40,
+      "Location": "Ecuador",
+      "Participants": "Melissa,Russell,Shannon Kulpa,Giovanna,Lacey,Matt,Matt Alexander,Amber,Chance Davis,Charlie,Fernando"
+    },
+    {
+      "id": 172,
+      "season_id": 3,
+      "episode_nr": 7,
+      "aired_date": "2017-06-04",
+      "title": "Left Behind",
+      "scheduled_length_days": 40,
+      "Location": "Ecuador",
+      "Participants": "Fernando,Charlie,Chance Davis,Amber,Matt Alexander,Matt,Lacey,Giovanna,Shannon Kulpa,Russell,Melissa"
+    },
+    {
+      "id": 173,
+      "season_id": 3,
+      "episode_nr": 8,
+      "aired_date": "2017-06-11",
+      "title": "The Final Fight",
+      "scheduled_length_days": 40,
+      "Location": "Ecuador",
+      "Participants": "Melissa,Russell,Shannon Kulpa,Giovanna,Lacey,Matt,Matt Alexander,Amber,Chance Davis,Charlie,Fernando"
+    },
+    {
+      "id": 174,
+      "season_id": 4,
+      "episode_nr": 1,
+      "aired_date": "2018-05-06",
+      "title": "All-Stars: Hunted Humans",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Clarence,Duck,Gary,Jeremy,Kaila,Lacey,Lindsey Leitelt,Matt,Melanie,Melissa,Sarah Danser,Shane,Trent"
+    },
+    {
+      "id": 175,
+      "season_id": 4,
+      "episode_nr": 2,
+      "aired_date": "2018-05-13",
+      "title": "Africa Strikes First",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Trent,Shane,Sarah Danser,Melissa,Melanie,Matt,Lindsey Leitelt,Lacey,Kaila,Jeremy,Gary,Duck,Clarence"
+    },
+    {
+      "id": 176,
+      "season_id": 4,
+      "episode_nr": 3,
+      "aired_date": "2018-05-20",
+      "title": "Africa Strikes Twice",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Clarence,Duck,Gary,Jeremy,Kaila,Lacey,Lindsey Leitelt,Matt,Melanie,Melissa,Sarah Danser,Shane,Trent"
+    },
+    {
+      "id": 177,
+      "season_id": 4,
+      "episode_nr": 4,
+      "aired_date": "2018-05-27",
+      "title": "All-Stars: To Hail and Back",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Trent,Shane,Sarah Danser,Melissa,Melanie,Matt,Lindsey Leitelt,Lacey,Kaila,Jeremy,Gary,Duck,Clarence"
+    },
+    {
+      "id": 178,
+      "season_id": 4,
+      "episode_nr": 5,
+      "aired_date": "2018-06-03",
+      "title": "All-Stars: Dead Weight",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Clarence,Duck,Gary,Jeremy,Kaila,Lacey,Lindsey Leitelt,Matt,Melanie,Melissa,Sarah Danser,Shane,Trent"
+    },
+    {
+      "id": 179,
+      "season_id": 4,
+      "episode_nr": 6,
+      "aired_date": "2018-06-10",
+      "title": "All-Stars: Burn Notice",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Trent,Shane,Sarah Danser,Melissa,Melanie,Matt,Lindsey Leitelt,Lacey,Kaila,Jeremy,Gary,Duck,Clarence"
+    },
+    {
+      "id": 180,
+      "season_id": 4,
+      "episode_nr": 7,
+      "aired_date": "2018-06-17",
+      "title": "All-Stars: Savage Journey",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Clarence,Duck,Gary,Jeremy,Kaila,Lacey,Lindsey Leitelt,Matt,Melanie,Melissa,Sarah Danser,Shane,Trent"
+    },
+    {
+      "id": 181,
+      "season_id": 4,
+      "episode_nr": 8,
+      "aired_date": "2018-06-17",
+      "title": "All-Stars: Survivalists vs. Predator",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Trent,Shane,Sarah Danser,Melissa,Melanie,Matt,Lindsey Leitelt,Lacey,Kaila,Jeremy,Gary,Duck,Clarence"
+    },
+    {
+      "id": 182,
+      "season_id": 4,
+      "episode_nr": 9,
+      "aired_date": "2018-06-24",
+      "title": "All-Stars: Feeding Frenzy",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Clarence,Duck,Gary,Jeremy,Kaila,Lacey,Lindsey Leitelt,Matt,Melanie,Melissa,Sarah Danser,Shane,Trent"
+    },
+    {
+      "id": 183,
+      "season_id": 4,
+      "episode_nr": 11,
+      "aired_date": "2018-07-01",
+      "title": "All-Stars: Fight To The Finish",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Trent,Shane,Sarah Danser,Melissa,Melanie,Matt,Lindsey Leitelt,Lacey,Kaila,Jeremy,Gary,Duck,Clarence"
+    },
+    {
+      "id": 184,
+      "season_id": 5,
+      "episode_nr": 2,
+      "aired_date": "2019-06-02",
+      "title": "Waterworld",
+      "scheduled_length_days": 60,
+      "Location": "Philippines",
+      "Participants": "Angela,Charlie,Christina,Duck,Duke,Gabrielle,James,Jeff,Laura,Manu,Max,Nicole Terry,Russell,Rylie"
+    },
+    {
+      "id": 185,
+      "season_id": 5,
+      "episode_nr": 3,
+      "aired_date": "2019-06-09",
+      "title": "Surviving With Sharks",
+      "scheduled_length_days": 60,
+      "Location": "Philippines",
+      "Participants": "Rylie,Russell,Nicole Terry,Max,Manu,Laura,Jeff,James,Gabrielle,Duke,Duck,Christina,Charlie,Angela"
+    },
+    {
+      "id": 186,
+      "season_id": 5,
+      "episode_nr": 4,
+      "aired_date": "2019-06-16",
+      "title": "Devil and The South China Sea",
+      "scheduled_length_days": 60,
+      "Location": "Philippines",
+      "Participants": "Angela,Charlie,Christina,Duck,Duke,Gabrielle,James,Jeff,Laura,Manu,Max,Nicole Terry,Russell,Rylie"
+    },
+    {
+      "id": 187,
+      "season_id": 5,
+      "episode_nr": 5,
+      "aired_date": "2019-06-23",
+      "title": "Belly of the Beast",
+      "scheduled_length_days": 60,
+      "Location": "Philippines",
+      "Participants": "Rylie,Russell,Nicole Terry,Max,Manu,Laura,Jeff,James,Gabrielle,Duke,Duck,Christina,Charlie,Angela"
+    },
+    {
+      "id": 188,
+      "season_id": 5,
+      "episode_nr": 6,
+      "aired_date": "2019-06-30",
+      "title": "No Hand-Outs",
+      "scheduled_length_days": 60,
+      "Location": "Philippines",
+      "Participants": "Angela,Charlie,Christina,Duck,Duke,Gabrielle,James,Jeff,Laura,Manu,Max,Nicole Terry,Russell,Rylie"
+    },
+    {
+      "id": 189,
+      "season_id": 5,
+      "episode_nr": 7,
+      "aired_date": "2019-07-07",
+      "title": "Hike Into Hell",
+      "scheduled_length_days": 60,
+      "Location": "Philippines",
+      "Participants": "Rylie,Russell,Nicole Terry,Max,Manu,Laura,Jeff,James,Gabrielle,Duke,Duck,Christina,Charlie,Angela"
+    },
+    {
+      "id": 190,
+      "season_id": 5,
+      "episode_nr": 8,
+      "aired_date": "2019-07-14",
+      "title": "Jeff's Wost Nightmare",
+      "scheduled_length_days": 60,
+      "Location": "Philippines",
+      "Participants": "Angela,Charlie,Christina,Duck,Duke,Gabrielle,James,Jeff,Laura,Manu,Max,Nicole Terry,Russell,Rylie"
+    },
+    {
+      "id": 191,
+      "season_id": 5,
+      "episode_nr": 10,
+      "aired_date": "2019-07-21",
+      "title": "Goodbye Cruel Waterworld",
+      "scheduled_length_days": 60,
+      "Location": "Philippines",
+      "Participants": "Rylie,Russell,Nicole Terry,Max,Manu,Laura,Jeff,James,Gabrielle,Duke,Duck,Christina,Charlie,Angela"
+    },
+    {
+      "id": 192,
+      "season_id": 6,
+      "episode_nr": 1,
+      "aired_date": "2020-05-24",
+      "title": "Valley of the Banished",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Bulent,Dawn,Gwen,Jon Bonessi,Joshua,Kate,Makani,Ryan Eacret,Sarah Bartell,Seth,Suzanne,Wes"
+    },
+    {
+      "id": 193,
+      "season_id": 6,
+      "episode_nr": 2,
+      "aired_date": "2020-05-31",
+      "title": "Croc Shock",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Wes,Suzanne,Seth,Sarah Bartell,Ryan Eacret,Makani,Kate,Joshua,Jon Bonessi,Gwen,Dawn,Bulent"
+    },
+    {
+      "id": 194,
+      "season_id": 6,
+      "episode_nr": 3,
+      "aired_date": "2020-06-07",
+      "title": "The Barehanded Killer",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Bulent,Dawn,Gwen,Jon Bonessi,Joshua,Kate,Makani,Ryan Eacret,Sarah Bartell,Seth,Suzanne,Wes"
+    },
+    {
+      "id": 195,
+      "season_id": 6,
+      "episode_nr": 4,
+      "aired_date": "2020-06-14",
+      "title": "No Calm After the Storm",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Wes,Suzanne,Seth,Sarah Bartell,Ryan Eacret,Makani,Kate,Joshua,Jon Bonessi,Gwen,Dawn,Bulent"
+    },
+    {
+      "id": 196,
+      "season_id": 6,
+      "episode_nr": 5,
+      "aired_date": "2020-06-21",
+      "title": "Boiling Point",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Bulent,Dawn,Gwen,Jon Bonessi,Joshua,Kate,Makani,Ryan Eacret,Sarah Bartell,Seth,Suzanne,Wes"
+    },
+    {
+      "id": 197,
+      "season_id": 6,
+      "episode_nr": 6,
+      "aired_date": "2020-06-28",
+      "title": "Feastmode",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Wes,Suzanne,Seth,Sarah Bartell,Ryan Eacret,Makani,Kate,Joshua,Jon Bonessi,Gwen,Dawn,Bulent"
+    },
+    {
+      "id": 198,
+      "season_id": 6,
+      "episode_nr": 7,
+      "aired_date": "2020-07-05",
+      "title": "A Matter of Life or Seth",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Bulent,Dawn,Gwen,Jon Bonessi,Joshua,Kate,Makani,Ryan Eacret,Sarah Bartell,Seth,Suzanne,Wes"
+    },
+    {
+      "id": 199,
+      "season_id": 6,
+      "episode_nr": 8,
+      "aired_date": "2020-07-12",
+      "title": "Keep Your Frenemies Close",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Wes,Suzanne,Seth,Sarah Bartell,Ryan Eacret,Makani,Kate,Joshua,Jon Bonessi,Gwen,Dawn,Bulent"
+    },
+    {
+      "id": 200,
+      "season_id": 6,
+      "episode_nr": 9,
+      "aired_date": "2020-07-19",
+      "title": "Third Times the Harm",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Bulent,Dawn,Gwen,Jon Bonessi,Joshua,Kate,Makani,Ryan Eacret,Sarah Bartell,Seth,Suzanne,Wes"
+    },
+    {
+      "id": 201,
+      "season_id": 6,
+      "episode_nr": 10,
+      "aired_date": "2020-07-26",
+      "title": "Crossbow and a Cross To Bear",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Wes,Suzanne,Seth,Sarah Bartell,Ryan Eacret,Makani,Kate,Joshua,Jon Bonessi,Gwen,Dawn,Bulent"
+    },
+    {
+      "id": 202,
+      "season_id": 6,
+      "episode_nr": 11,
+      "aired_date": "2020-08-02",
+      "title": "Banished But Not Broken",
+      "scheduled_length_days": 40,
+      "Location": "South Africa",
+      "Participants": "Bulent,Dawn,Gwen,Jon Bonessi,Joshua,Kate,Makani,Ryan Eacret,Sarah Bartell,Seth,Suzanne,Wes"
+    },
+    {
+      "id": 203,
+      "season_id": 7,
+      "episode_nr": 1,
+      "aired_date": "2021-04-25",
+      "title": "That All You Got, Louisiana?",
+      "scheduled_length_days": 60,
+      "Location": "Louisiana",
+      "Participants": "EJ,Gary,Amber,Jeff,Lacey,Matt,Max,Ryan Holt,Rylie,Sarah Danser,Steven,Suzanne"
+    },
+    {
+      "id": 204,
+      "season_id": 7,
+      "episode_nr": 2,
+      "aired_date": "2021-05-02",
+      "title": "Chomping at His Bits",
+      "scheduled_length_days": 60,
+      "Location": "Louisiana",
+      "Participants": "Suzanne,Steven,Sarah Danser,Rylie,Ryan Holt,Max,Matt,Lacey,Jeff,Amber,Gary,EJ"
+    },
+    {
+      "id": 205,
+      "season_id": 7,
+      "episode_nr": 3,
+      "aired_date": "2021-05-09",
+      "title": "Gar-R-Done",
+      "scheduled_length_days": 60,
+      "Location": "Louisiana",
+      "Participants": "EJ,Gary,Amber,Jeff,Lacey,Matt,Max,Ryan Holt,Rylie,Sarah Danser,Steven,Suzanne"
+    },
+    {
+      "id": 206,
+      "season_id": 7,
+      "episode_nr": 4,
+      "aired_date": "2021-05-16",
+      "title": "Gary Eats All The Things",
+      "scheduled_length_days": 60,
+      "Location": "Louisiana",
+      "Participants": "Suzanne,Steven,Sarah Danser,Rylie,Ryan Holt,Max,Matt,Lacey,Jeff,Amber,Gary,EJ"
+    },
+    {
+      "id": 207,
+      "season_id": 7,
+      "episode_nr": 5,
+      "aired_date": "2021-05-23",
+      "title": "Itching for Revenge",
+      "scheduled_length_days": 60,
+      "Location": "Louisiana",
+      "Participants": "EJ,Gary,Amber,Jeff,Lacey,Matt,Max,Ryan Holt,Rylie,Sarah Danser,Steven,Suzanne"
+    },
+    {
+      "id": 208,
+      "season_id": 7,
+      "episode_nr": 6,
+      "aired_date": "2021-05-30",
+      "title": "EJ's Ball and Pain",
+      "scheduled_length_days": 60,
+      "Location": "Louisiana",
+      "Participants": "Suzanne,Steven,Sarah Danser,Rylie,Ryan Holt,Max,Matt,Lacey,Jeff,Amber,Gary,EJ"
+    },
+    {
+      "id": 209,
+      "season_id": 7,
+      "episode_nr": 7,
+      "aired_date": "2021-06-06",
+      "title": "A Bridge Over Swampy Water",
+      "scheduled_length_days": 60,
+      "Location": "Louisiana",
+      "Participants": "EJ,Gary,Amber,Jeff,Lacey,Matt,Max,Ryan Holt,Rylie,Sarah Danser,Steven,Suzanne"
+    },
+    {
+      "id": 210,
+      "season_id": 7,
+      "episode_nr": 8,
+      "aired_date": "2021-06-13",
+      "title": "A Feast of The Eyes",
+      "scheduled_length_days": 60,
+      "Location": "Louisiana",
+      "Participants": "Suzanne,Steven,Sarah Danser,Rylie,Ryan Holt,Max,Matt,Lacey,Jeff,Amber,Gary,EJ"
+    },
+    {
+      "id": 211,
+      "season_id": 7,
+      "episode_nr": 9,
+      "aired_date": "2021-06-20",
+      "title": "Cold Grudges Die Hard",
+      "scheduled_length_days": 60,
+      "Location": "Louisiana",
+      "Participants": "EJ,Gary,Amber,Jeff,Lacey,Matt,Max,Ryan Holt,Rylie,Sarah Danser,Steven,Suzanne"
+    },
+    {
+      "id": 212,
+      "season_id": 7,
+      "episode_nr": 10,
+      "aired_date": "2021-06-27",
+      "title": "All In to Get Out",
+      "scheduled_length_days": 60,
+      "Location": "Louisiana",
+      "Participants": "Suzanne,Steven,Sarah Danser,Rylie,Ryan Holt,Max,Matt,Lacey,Jeff,Amber,Gary,EJ"
+    },
+    {
+      "id": 213,
+      "season_id": 8,
+      "episode_nr": 1,
+      "aired_date": "2022-05-01",
+      "title": "I'm In Big Trouble",
+      "scheduled_length_days": 60,
+      "Location": "Peru",
+      "Participants": "Dan,EJ,Gary,Amber,Jamie Frizzell,Jeff,Jen,Kaila,Lisa Hagan,Matt,Rod,Steven,Waz,Tim,Trish"
+    },
+    {
+      "id": 214,
+      "season_id": 8,
+      "episode_nr": 2,
+      "aired_date": "2022-05-08",
+      "title": "Amazon Pain Forest",
+      "scheduled_length_days": 60,
+      "Location": "Peru",
+      "Participants": "Trish,Tim,Waz,Steven,Rod,Matt,Lisa Hagan,Kaila,Jen,Jeff,Jamie Frizzell,Amber,Gary,EJ,Dan"
+    },
+    {
+      "id": 215,
+      "season_id": 8,
+      "episode_nr": 3,
+      "aired_date": "2022-05-15",
+      "title": "In Your Face, Amazon!",
+      "scheduled_length_days": 60,
+      "Location": "Peru",
+      "Participants": "Dan,EJ,Gary,Amber,Jamie Frizzell,Jeff,Jen,Kaila,Lisa Hagan,Matt,Rod,Steven,Waz,Tim,Trish"
+    },
+    {
+      "id": 216,
+      "season_id": 8,
+      "episode_nr": 4,
+      "aired_date": "2022-05-22",
+      "title": "The Legends Return",
+      "scheduled_length_days": 60,
+      "Location": "Peru",
+      "Participants": "Trish,Tim,Waz,Steven,Rod,Matt,Lisa Hagan,Kaila,Jen,Jeff,Jamie Frizzell,Amber,Gary,EJ,Dan"
+    },
+    {
+      "id": 217,
+      "season_id": 8,
+      "episode_nr": 5,
+      "aired_date": "2022-05-29",
+      "title": "Mutiny in the Jungle",
+      "scheduled_length_days": 60,
+      "Location": "Peru",
+      "Participants": "Dan,EJ,Gary,Amber,Jamie Frizzell,Jeff,Jen,Kaila,Lisa Hagan,Matt,Rod,Steven,Waz,Tim,Trish"
+    },
+    {
+      "id": 218,
+      "season_id": 8,
+      "episode_nr": 6,
+      "aired_date": "2022-06-05",
+      "title": "Legendary Fail",
+      "scheduled_length_days": 60,
+      "Location": "Peru",
+      "Participants": "Trish,Tim,Waz,Steven,Rod,Matt,Lisa Hagan,Kaila,Jen,Jeff,Jamie Frizzell,Amber,Gary,EJ,Dan"
+    },
+    {
+      "id": 219,
+      "season_id": 8,
+      "episode_nr": 7,
+      "aired_date": "2022-06-12",
+      "title": "Careful What You Fish For",
+      "scheduled_length_days": 60,
+      "Location": "Peru",
+      "Participants": "Dan,EJ,Gary,Amber,Jamie Frizzell,Jeff,Jen,Kaila,Lisa Hagan,Matt,Rod,Steven,Waz,Tim,Trish"
+    },
+    {
+      "id": 220,
+      "season_id": 8,
+      "episode_nr": 8,
+      "aired_date": "2022-06-19",
+      "title": "You Left Us to Rot",
+      "scheduled_length_days": 60,
+      "Location": "Peru",
+      "Participants": "Trish,Tim,Waz,Steven,Rod,Matt,Lisa Hagan,Kaila,Jen,Jeff,Jamie Frizzell,Amber,Gary,EJ,Dan"
+    },
+    {
+      "id": 221,
+      "season_id": 8,
+      "episode_nr": 9,
+      "aired_date": "2022-06-26",
+      "title": "A Gathering Swarm",
+      "scheduled_length_days": 60,
+      "Location": "Peru",
+      "Participants": "Dan,EJ,Gary,Amber,Jamie Frizzell,Jeff,Jen,Kaila,Lisa Hagan,Matt,Rod,Steven,Waz,Tim,Trish"
+    },
+    {
+      "id": 222,
+      "season_id": 8,
+      "episode_nr": 10,
+      "aired_date": "2022-07-03",
+      "title": "Jungle Gangsters Out",
+      "scheduled_length_days": 60,
+      "Location": "Peru",
+      "Participants": "Trish,Tim,Waz,Steven,Rod,Matt,Lisa Hagan,Kaila,Jen,Jeff,Jamie Frizzell,Amber,Gary,EJ,Dan"
+    },
+    {
+      "id": 223,
+      "season_id": 9,
+      "episode_nr": 1,
+      "aired_date": "2022-07-31",
+      "title": "Frozen: Rocky Road Ahead",
+      "scheduled_length_days": 14,
+      "Location": "Montana",
+      "Participants": "Waz,Gabrielle,Sarah Bartell,Trish,Ky,Wes,Jermaine,Jeremy,Jake,Rod,Sara Burkett,Joe Ortlip"
+    },
+    {
+      "id": 224,
+      "season_id": 9,
+      "episode_nr": 2,
+      "aired_date": "2022-07-31",
+      "title": "Frozen: Stay with Me",
+      "scheduled_length_days": 14,
+      "Location": "Montana",
+      "Participants": "Joe Ortlip,Sara Burkett,Rod,Jake,Jeremy,Jermaine,Wes,Ky,Trish,Sarah Bartell,Gabrielle,Waz"
+    },
+    {
+      "id": 225,
+      "season_id": 9,
+      "episode_nr": 3,
+      "aired_date": "2022-08-07",
+      "title": "Frozen: Hypothermic When Wet",
+      "scheduled_length_days": 14,
+      "Location": "Montana",
+      "Participants": "Waz,Gabrielle,Sarah Bartell,Trish,Ky,Wes,Jermaine,Jeremy,Jake,Rod,Sara Burkett,Joe Ortlip"
+    },
+    {
+      "id": 226,
+      "season_id": 9,
+      "episode_nr": 4,
+      "aired_date": "2022-08-14",
+      "title": "Frozen: Snow Rest for the Weary",
+      "scheduled_length_days": 14,
+      "Location": "Montana",
+      "Participants": "Joe Ortlip,Sara Burkett,Rod,Jake,Jeremy,Jermaine,Wes,Ky,Trish,Sarah Bartell,Gabrielle,Waz"
+    },
+    {
+      "id": 227,
+      "season_id": 9,
+      "episode_nr": 5,
+      "aired_date": "2022-08-21",
+      "title": "Frozen: Thin Air, Fat Chance",
+      "scheduled_length_days": 14,
+      "Location": "Montana",
+      "Participants": "Waz,Gabrielle,Sarah Bartell,Trish,Ky,Wes,Jermaine,Jeremy,Jake,Rod,Sara Burkett,Joe Ortlip"
+    },
+    {
+      "id": 228,
+      "season_id": 9,
+      "episode_nr": 6,
+      "aired_date": "2022-08-28",
+      "title": "Frozen: Bear of a Finish",
+      "scheduled_length_days": 14,
+      "Location": "Montana",
+      "Participants": "Joe Ortlip,Sara Burkett,Rod,Jake,Jeremy,Jermaine,Wes,Ky,Trish,Sarah Bartell,Gabrielle,Waz"
+    },
+    {
+      "id": 229,
+      "season_id": 1,
+      "episode_nr": 1,
+      "aired_date": "2020-01-05",
+      "title": "Man Up or Bow Out",
+      "scheduled_length_days": 21,
+      "Location": "South Africa",
+      "Participants": "Luke"
+    },
+    {
+      "id": 230,
+      "season_id": 1,
+      "episode_nr": 2,
+      "aired_date": "2020-01-12",
+      "title": "Gary of The Jungle",
+      "scheduled_length_days": 21,
+      "Location": "Belize",
+      "Participants": "Gary"
+    },
+    {
+      "id": 231,
+      "season_id": 1,
+      "episode_nr": 3,
+      "aired_date": "2020-01-19",
+      "title": "Hunted and Haunted",
+      "scheduled_length_days": 21,
+      "Location": "South Africa",
+      "Participants": "Lacey"
+    },
+    {
+      "id": 232,
+      "season_id": 1,
+      "episode_nr": 4,
+      "aired_date": "2020-01-26",
+      "title": "Blazed and Confused",
+      "scheduled_length_days": 21,
+      "Location": "South Africa",
+      "Participants": "Ryan Holt"
+    },
+    {
+      "id": 233,
+      "season_id": 1,
+      "episode_nr": 5,
+      "aired_date": "2020-02-09",
+      "title": "Max Pushed to the Max",
+      "scheduled_length_days": 21,
+      "Location": "South Africa",
+      "Participants": "Max"
+    },
+    {
+      "id": 234,
+      "season_id": 1,
+      "episode_nr": 6,
+      "aired_date": "2020-02-16",
+      "title": "Lonely Like the Wolf",
+      "scheduled_length_days": 21,
+      "Location": "Bulgaria",
+      "Participants": "EJ"
+    },
+    {
+      "id": 235,
+      "season_id": 1,
+      "episode_nr": 7,
+      "aired_date": "2020-01-05",
+      "title": "Survive or Ky Tryin",
+      "scheduled_length_days": 21,
+      "Location": "Ecuador",
+      "Participants": "Ky"
+    },
+    {
+      "id": 236,
+      "season_id": 1,
+      "episode_nr": 8,
+      "aired_date": "2020-01-05",
+      "title": "Bugging Out",
+      "scheduled_length_days": 21,
+      "Location": "Belize",
+      "Participants": "Kim"
+    },
+    {
+      "id": 237,
+      "season_id": 1,
+      "episode_nr": 1,
+      "aired_date": "2023-03-12",
+      "title": "Surviving Solo",
+      "scheduled_length_days": 21,
+      "Location": "South Africa, Guyana, Mexico",
+      "Participants": "Jamie Frizzell,Fernando,Kaila,James,Cheeny,Terra,Suzanne,Shanika"
+    },
+    {
+      "id": 238,
+      "season_id": 1,
+      "episode_nr": 2,
+      "aired_date": "2023-03-19",
+      "title": "A Risky Decision",
+      "scheduled_length_days": 21,
+      "Location": "South Africa, Guyana, Mexico",
+      "Participants": "Shanika,Suzanne,Terra,Cheeny,James,Kaila,Fernando,Jamie Frizzell"
+    },
+    {
+      "id": 239,
+      "season_id": 1,
+      "episode_nr": 3,
+      "aired_date": "2023-03-26",
+      "title": "The Long Trek Back",
+      "scheduled_length_days": 21,
+      "Location": "South Africa, Guyana, Mexico",
+      "Participants": "Jamie Frizzell,Fernando,Kaila,James,Cheeny,Terra,Suzanne,Shanika"
+    },
+    {
+      "id": 240,
+      "season_id": 1,
+      "episode_nr": 4,
+      "aired_date": "2023-04-02",
+      "title": "Bladder Parasite",
+      "scheduled_length_days": 21,
+      "Location": "South Africa, Guyana, Mexico",
+      "Participants": "Shanika,Suzanne,Terra,Cheeny,James,Kaila,Fernando,Jamie Frizzell"
+    },
+    {
+      "id": 241,
+      "season_id": 1,
+      "episode_nr": 5,
+      "aired_date": "2023-04-09",
+      "title": "Catfish Hunter",
+      "scheduled_length_days": 21,
+      "Location": "South Africa, Guyana, Mexico",
+      "Participants": "Jamie Frizzell,Fernando,Kaila,James,Cheeny,Terra,Suzanne,Shanika"
+    },
+    {
+      "id": 242,
+      "season_id": 1,
+      "episode_nr": 6,
+      "aired_date": "2023-04-16",
+      "title": "Edge of the Knife",
+      "scheduled_length_days": 21,
+      "Location": "South Africa, Guyana, Mexico",
+      "Participants": "Shanika,Suzanne,Terra,Cheeny,James,Kaila,Fernando,Jamie Frizzell"
+    },
+    {
+      "id": 243,
+      "season_id": 1,
+      "episode_nr": 7,
+      "aired_date": "2023-04-23",
+      "title": "Making it Out Alive",
+      "scheduled_length_days": 21,
+      "Location": "South Africa, Guyana, Mexico",
+      "Participants": "Jamie Frizzell,Fernando,Kaila,James,Cheeny,Terra,Suzanne,Shanika"
+    },
+    {
+      "id": 244,
+      "season_id": 1,
+      "episode_nr": 8,
+      "aired_date": "2023-04-30",
+      "title": "Never Quit",
+      "scheduled_length_days": 21,
+      "Location": "South Africa, Guyana, Mexico",
+      "Participants": "Shanika,Suzanne,Terra,Cheeny,James,Kaila,Fernando,Jamie Frizzell"
+    }
+  ]
